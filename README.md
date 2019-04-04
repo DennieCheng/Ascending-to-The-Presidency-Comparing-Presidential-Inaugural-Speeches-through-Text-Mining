@@ -7,4 +7,15 @@ One of the acts that all presidents perform is the inaugural speech, the speech 
 Beautifulsoup; NLTK; sklearn; Textblob; WordCloud; Pandas; matplotlib
 
 # Result
+Clustering:
+![](fig/ClusteringResult.jpg)
 
+Trump's Speech wordcloud:
+![](fig/TrumpPositive.png)
+![](fig/TrumpNegative.png)
+
+Sentiments:
+![](fig/SentimentPolarityScore.jpg)
+
+Correlation with economic index:
+![](fig/correlation.png)
